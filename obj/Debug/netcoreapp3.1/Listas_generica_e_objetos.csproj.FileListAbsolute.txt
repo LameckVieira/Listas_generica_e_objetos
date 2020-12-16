@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\bin\Debug\netcoreapp3.1\Listas_generica_e_objetos.exe
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\bin\Debug\netcoreapp3.1\Listas_generica_e_objetos.deps.json
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\bin\Debug\netcoreapp3.1\Listas_generica_e_objetos.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\bin\Debug\netcoreapp3.1\Listas_generica_e_objetos.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\bin\Debug\netcoreapp3.1\Listas_generica_e_objetos.dll
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\bin\Debug\netcoreapp3.1\Listas_generica_e_objetos.pdb
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\obj\Debug\netcoreapp3.1\Listas_generica_e_objetos.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\obj\Debug\netcoreapp3.1\Listas_generica_e_objetos.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\obj\Debug\netcoreapp3.1\Listas_generica_e_objetos.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\obj\Debug\netcoreapp3.1\Listas_generica_e_objetos.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\obj\Debug\netcoreapp3.1\Listas_generica_e_objetos.dll
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\obj\Debug\netcoreapp3.1\Listas_generica_e_objetos.pdb
+C:\Users\Lameck\Desktop\C#\Listas_generica_e_objetos\obj\Debug\netcoreapp3.1\Listas_generica_e_objetos.genruntimeconfig.cache
